@@ -9,6 +9,10 @@ Fetching GitHub profile using link and API with high contrast theme
   <img src="https://img.shields.io/badge/language-JS-gold.svg">
 </p>
 
+## First look
+![Screenshot_2021-08-15-20-58-38-82_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/75971776/129483748-bebdc3c4-1a58-45c9-bd2b-a016def17463.jpg)
+![Screenshot_2021-08-15-20-58-46-43_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/75971776/129483761-bd303c0c-2256-464a-b973-4605610f64bc.jpg)
+![Screenshot_2021-08-15-20-58-52-32_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/75971776/129483782-8f7b8e5f-fbfc-4d57-b02f-0648323f3146.jpg)
 
 # Overview 
 Do you want to showcase a github repository or profile on your website? Instead of leaving a simple link, use this tool to create embedded HTML github tiles. It uses GitHub's API to grab the information, so no need to worry about updating html. You can pin profiles, single repositories, or even all repositories linked to an individual profile!
