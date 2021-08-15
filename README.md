@@ -33,7 +33,6 @@ Simply set the html **data** field with a GitHub profile, repository, or reposit
 
 ## TODO
 * Implement functionality for a "All Repos" element
-* ~~Use AWS Cloudfront to serve files to reduce latency on sites~~
 * Add additional option styles for tiles
 * Expanding width "All-repo" section
 * Hover-able icon with GitHub Profile popup
